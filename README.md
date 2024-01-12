@@ -1,30 +1,21 @@
-# React + TypeScript + Vite
+🚀 ¡Bienvenidos a Cine Estelar! 🎬
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Proyecto en el que he colaborado con tres grandes compañeros: Alan Rojas, Lia Puigmitjà Ruiz y Sergio Serrano Cesar.
 
-Currently, two official plugins are available:
+🌐 Descubre y Reserva:
+Cine Estelar te permite buscar y reservar tus películas favoritas de manera rápida y sencilla. Nuestra interfaz intuitiva te brinda acceso a información detallada mediante el buscador, filtros o películas destacadas. Conoce los cines, horarios y salas para cada película. Además puedes comunicarte con nosotros a través del formulario de contacto.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🎟️ Genera tu Ticket en segundos:
+Generar tu ticket es tan fácil como hacer clic. Una vez que elijas tu película, selecciones tu asiento y confirmes la reserva, ¡tu ticket estará listo para ser disfrutado!
 
-## Expanding the ESLint configuration
+🔐 Seguridad y Comodidad:
+En la sección de inicio de sesión, puedes personalizar tu cuenta cambiando la imagen de perfil o, por seguridad, tu contraseña.
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+Tecnologías Utilizadas:
+🌐 Typescript, HTML y CSS
+⚛️ React
+☕ Java y Springboot
+🛢️ MySQL
+📂 GitHub como gestor de versiones
 
-- Configure the top-level `parserOptions` property like this:
-
-```js
-export default {
-  // other rules...
-  parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-  },
-}
-```
-
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+🚀 ¡Que empiece la película! 🎥✨
