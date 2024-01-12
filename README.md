@@ -1,6 +1,6 @@
 🚀 ¡Bienvenidos a Cine Estelar! 🎬
 
-Proyecto en el que he colaborado con tres grandes compañeros: Alan Rojas, Lia Puigmitjà Ruiz y Sergio Serrano Cesar.
+Parte Frontend del proyecto en el que he colaborado con tres grandes compañeros: Alan Rojas, Lia Puigmitjà Ruiz y Sergio Serrano Cesar.
 
 🌐 Descubre y Reserva:
 Cine Estelar te permite buscar y reservar tus películas favoritas de manera rápida y sencilla. Nuestra interfaz intuitiva te brinda acceso a información detallada mediante el buscador, filtros o películas destacadas. Conoce los cines, horarios y salas para cada película. Además puedes comunicarte con nosotros a través del formulario de contacto.
